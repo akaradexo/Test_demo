@@ -1,1 +1,5 @@
-print("I'm Web devleoper")
+designation=input("are you hungry")
+if designation="yes":
+	print("eat samosa")
+else:
+	print("go for walk")
